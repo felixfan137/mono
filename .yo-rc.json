@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ikang.application",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "along",
+    "packageName": "com.ikang.application",
+    "packageFolder": "com/ikang/application",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDI5YzI1ZGMzMmRlYTcwNzBkN2I2NmRmMDIxZWYxOTgxMmMzYzZlZDE2MjViZjI1N2UwZDIyOGZlYjZhNTZjNmJjNDEyMDFmODJkN2JkZWQxNTdmZDM1M2Y2OWU2YzQzMjhjMTQyNzIwZmE2NGJlZjRjNTQxMGI3ODljYjI0YmQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1604893027009,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": ["zh-cn", "zh-tw", "en"],
+    "blueprints": []
+  }
+}
